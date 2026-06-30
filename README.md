@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Outmano
 
@@ -9,8 +9,6 @@
 [Website](https://outmano.com) · [Live Demo](https://outmano.com/demo/social-management) · [Blog](https://outmano.com/blog) · [Status](https://status.outmano.com/)
 
 [Start free trial](https://outmano.com/users/sign_up) · [Pricing](https://outmano.com/pricing)
-
-</div>
 
 ---
 
